@@ -1,0 +1,23 @@
+body {
+  background: #fcfcfb;
+  color: #111;
+  font-family: "Times New Roman", Times, Georgia, serif;
+  font-size: 17px;
+  line-height: 1.45;
+  max-width: 700px;
+  margin: 0;
+  padding: 16px;
+}
+
+a { color: #0000ee; }
+a:visited { color: #551a8b; }
+
+h1 { font-size: 1.6em; margin: 0.4em 0 0.2em; }
+h2 { font-size: 1.2em; margin: 1.6em 0 0.4em; }
+
+ul { padding-left: 1.2em; }
+li { margin-bottom: 0.6em; }
+
+.meta { color: #444; }
+
+footer { margin-top: 2.5em; color: #444; font-size: 0.9em; }

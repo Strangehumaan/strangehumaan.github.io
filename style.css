@@ -50,6 +50,8 @@ h1, h2, h3, p { margin: 0; }
   border: 1px solid var(--line);
 }
 h1 { font-size: 1.75rem; line-height: 1.2; letter-spacing: -0.02em; }
+.motto { margin-top: 2px; color: var(--muted); font: 0.85rem var(--mono); }
+.motto::before { content: "> "; color: #dc2626; }
 .tagline { margin-top: 6px; }
 .where { margin-top: 4px; color: var(--muted); font-size: 0.9rem; }
 
